@@ -1,0 +1,10 @@
+Para este proyecto se requiere hacer un análisis de las ventas de copias de
+videojuegos a nivel global. Con el fin de realizar este análisis
+se seleccionaron las siguientes categorías:
+- Año
+- Región
+- Editorial
+- Plataforma
+- Genero 
+
+Nota: Las variables de ventas de videojuegos están en millones de dólares.
